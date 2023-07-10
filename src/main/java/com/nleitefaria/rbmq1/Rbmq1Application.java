@@ -8,7 +8,6 @@ public class Rbmq1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Rbmq1Application.class, args);
-
 	}
 
 }
